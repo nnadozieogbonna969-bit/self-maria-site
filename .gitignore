@@ -1,0 +1,17 @@
+# Replit internals
+.agents/
+.local/
+.cache/
+.upm/
+
+# Attached assets (screenshots/uploads used during development only)
+attached_assets/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
