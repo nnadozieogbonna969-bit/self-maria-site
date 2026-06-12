@@ -522,14 +522,14 @@ a { color: inherit; text-decoration: none; }
 
 /* COACH PHOTO — fills the entire hero as a soft, tinted backdrop */
 .coach-photo {
-  position: absolute;
+  position: Relative;
   top: 0;
   bottom: 0;
   height: 100%;
   width: 100%;
   max-width: 80%;
   object-fit: contain;
-  object-position: 70% 30%;
+  object-position: center center;
   z-index: 0;
   opacity: 0.35;
   /* Duotone effect: convert image into deep teal tones */
