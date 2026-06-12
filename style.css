@@ -525,10 +525,10 @@ a { color: inherit; text-decoration: none; }
   position: absolute;
   top: 0;
   bottom: 0;
-  right: 0;
+  right: 15;
   height: 100%;
-  width: 70%;
-  max-width: 85%;
+  width: 100%;
+  max-width: 80%;
   object-fit: contain;
   object-position: right bottom;
   z-index: 0;
