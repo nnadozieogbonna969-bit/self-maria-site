@@ -59,7 +59,7 @@
       `).join('')}
     </nav>
 
-    <a href="enroll.html" class="sidenav-cta">Get the Free Pack →</a>
+    <a href="enroll.html" class="sidenav-cta">Get the 5 elements →</a>
 
     <div class="sidenav-foot">
       <small>© ${new Date().getFullYear()}</small>
